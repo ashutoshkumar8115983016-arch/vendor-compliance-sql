@@ -15,7 +15,6 @@ SQL project on contract-labour vendor compliance: statutory documents (PF, ESIC,
 | `schema.sql` | Table definitions |
 | `data/` | 8 CSV files |
 | `sql/solutions.sql` | All 50 solutions |
-| `docs/` | PDF with questions, solutions and insights; question list |
 
 ## How to run
 1. Create a database and run `schema.sql`
@@ -34,4 +33,4 @@ SQL project on contract-labour vendor compliance: statutory documents (PF, ESIC,
 ## Skills shown
 JOINs, CTEs, subqueries, CASE WHEN, window functions (RANK, ROW_NUMBER, LAG, NTILE, running totals, moving averages), PERCENTILE_CONT, views, PL/pgSQL function, trigger, data validation
 
-Full list of questions: [docs/SQL_Business_Questions.md](docs/SQL_Business_Questions.md)
+
